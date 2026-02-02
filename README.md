@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Yadnyesh&fontSize=90&fontAlignY=35&desc=Web%20•%20AI%20•%20Blockchain&descAlignY=55&descAlign=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Yadnyesh&fontSize=90&fontAlignY=30&desc=Web%20•%20AI%20•%20Blockchain&descAlignY=51&descAlign=50&animation=fadeIn&fontColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
@@ -68,6 +68,9 @@
 </div>
 
 <br />
+### 📊 Activity & Languages
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yadnyesh-patil&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Yadnyesh-patil)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yadnyesh-patil&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Yadnyesh-patil)
 
 <h3 align="center">📊 Activity Graph</h3>
 <div align="center">
