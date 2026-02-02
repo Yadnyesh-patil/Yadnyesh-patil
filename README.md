@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Yadnyesh&fontSize=90&fontAlignY=30&desc=Web%20•%20AI%20•%20Blockchain&descAlignY=51&descAlign=50&animation=fadeIn&fontColor=ffffff" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Yadnyesh&fontSize=70&fontAlignY=35&desc=Web%20•%20AI%20•%20Blockchain&descAlignY=60&descAlign=50&animation=fadeIn&fontColor=ffffff&font=josefin_sans" width="100%" />
 </div>
 
 <div align="center">
@@ -8,6 +8,12 @@
   </a>
   <a href="https://www.linkedin.com/in/yadnyeshp">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/yadnyesh686/?hl=en">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://x.com/YadnyeshPatil81">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 </div>
 
@@ -22,7 +28,7 @@
 
 <h3 align="center">⚡ Tech Stack</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,solidity,js,drupal,html,css,pytorch,tensorflow,mysql,git&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,php,solidity,js,html,css,pytorch,tensorflow,mysql,git&perline=11" />
 </div>
 
 <br />
@@ -68,12 +74,19 @@
 </div>
 
 <br />
-### 📊 Activity & Languages
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yadnyesh-patil&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Yadnyesh-patil)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yadnyesh-patil&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Yadnyesh-patil)
 
-<h3 align="center">📊 Activity Graph</h3>
+<h3 align="center">📊 Activity & Languages</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yadnyesh-patil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadnyesh-patil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
+  <table align="center" border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://github.com/Yadnyesh-patil">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Yadnyesh-patil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Yadnyesh-patil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
