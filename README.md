@@ -1,24 +1,76 @@
-### Hi there, I'm Yadnyesh 👋
-I am a multi-disciplinary software engineer passionate about **Web Development**, **AI**, and **Decentralized Systems**.
-Currently focused on **Drupal Development** for the FOSSEE Internship at IIT Bombay.
-#### 🛠️ Technical Arsenal
-*   **Core:** Python, PHP, Solidity, JavaScript
-*   **Web Frameworks:** Drupal 10, Flask/Django (implied via ML projects)
-*   **AI/ML:** PyTorch/TensorFlow (OrthoLens), Computer Vision
-*   **Blockchain:** Smart Contracts, IP Registry
-#### 🚀 Featured Projects
-> **[vit_event_core](https://github.com/Yadnyesh-patil/vit_event_core)** (Drupal 10)
-> *   A strict-standard Drupal module for event management.
-> *   **Tech:** AJAX, Dependency Injection, MySQL, PHP 8.1.
-> *   *Developed for FOSSEE Internship Screening.*
-> **[OrthoLens-MURA](https://github.com/Yadnyesh-patil/OrthoLens-MURA)** (AI/ML)
-> *   Medical imaging analysis using Deep Learning for MURA (Musculoskeletal Radiographs).
-> *   **Tech:** Python, Computer Vision.
-> **[blockchain-ip-resgistry](https://github.com/Yadnyesh-patil/blockchain-ip-resgistry)** (Web3)
-> *   Decentralized Intellectual Property registry on the Blockchain.
-> *   **Tech:** Solidity, Smart Contracts.
-#### 📈 Activity
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yadnyesh-patil&show_icons=true&theme=radical" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadnyesh-patil&layout=compact&theme=radical" height="150" alt="languages graph" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Yadnyesh&fontSize=90&fontAlignY=35&desc=Web%20•%20AI%20•%20Blockchain&descAlignY=55&descAlign=50&animation=fadeIn" width="100%" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/Yadnyesh-patil">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yadnyeshp">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <h3>🚀 Building the Open Web & Training Neural Networks</h3>
+  <p>Hi there! I'm a Multi-Disciplinary Engineer building the Open Web, training Neural Networks, and deploying Smart Contracts.</p>
+</div>
+
+<br />
+
+<h3 align="center">⚡ Tech Stack</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,solidity,js,drupal,html,css,pytorch,tensorflow,mysql,git&perline=11" />
+</div>
+
+<br />
+
+<h3 align="center">💎 Featured Projects</h3>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <h3>🚀 vit_event_core</h3>
+        <p><b>Drupal 10 • PHP • MySQL</b></p>
+        <p>Enterprise Event Management System built for FOSSEE.</p>
+        <br>
+        <ul align="left">
+          <li>✅ Strict Dependency Injection</li>
+          <li>✅ AJAX Dependent Form Flow</li>
+          <li>✅ Custom Database Schema</li>
+          <li>✅ CSV Data Export</li>
+        </ul>
+        <br>
+        <a href="https://github.com/Yadnyesh-patil/vit_event_core">
+          <img src="https://img.shields.io/badge/View_Source-000000?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <h3>🧠 OrthoLens-MURA</h3>
+        <p><b>Python • PyTorch • Computer Vision</b></p>
+        <p>Deep Learning Model for Medical Imaging.</p>
+        <br>
+        <ul align="left">
+          <li>✅ Musculoskeletal Radiograph Analysis</li>
+          <li>✅ Computer Vision Pipeline</li>
+          <li>✅ PyTorch Model Training</li>
+          <li>✅ Automated Anomaly Detection</li>
+        </ul>
+        <br>
+        <a href="https://github.com/Yadnyesh-patil/OrthoLens-MURA">
+          <img src="https://img.shields.io/badge/View_Source-000000?style=flat-square&logo=github&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br />
+
+<h3 align="center">📊 Activity Graph</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yadnyesh-patil&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yadnyesh-patil&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" />
 </div>
