@@ -87,16 +87,16 @@
           <img src="https://img.shields.io/badge/Status-Active-00D4AA?style=flat-square" />
         </p>
         <p><b>Python • FastAPI • React • NLP • OSINT</b></p>
-        <p>Dark web threat intelligence platform. Real-time monitoring, NLP-powered threat detection, and identity correlation.</p>
+        <p>Dark web threat intelligence platform. Real-time monitoring, NLP-powered threat detection, and cross-source signal correlation.</p>
         <br>
         <ul align="left">
-          <li>🔍 Real-time dark web feed ingestion & analysis</li>
-          <li>🧠 NLP threat classifier with entity extraction</li>
-          <li>🔗 Identity linking across leaked credential dumps</li>
-          <li>📊 Interactive React dashboard with live alerts</li>
+          <li>🔍 Multi-source ingestion: text, files, URLs, Tor streams</li>
+          <li>🧠 NLP entity extraction with multilingual slang decoding</li>
+          <li>🔗 Credential leak detection & breach impact estimation</li>
+          <li>📊 React dashboard with prioritized alert generation</li>
         </ul>
         <br>
-        <a href="https://github.com/Yadnyesh-patil/DarkIntel-AI">
+        <a href="https://github.com/Krishna-cell-12/DarkIntel-AI">
           <img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
